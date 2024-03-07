@@ -1,5 +1,5 @@
 to do list
-1. vertically nested navbar in mobile. show nested things on hover in laptop like https://www.insightsonindia.com/
+1. vertically nested navbar in mobile. close open list on clicking other. show nested things on hover in laptop like https://www.insightsonindia.com/
 2. toggle for dark mode.
 3. simple HTML editor adding p,br,ul,li tag.
 4. jsx to pdf convert dynamically, the pdf text should be selectable
