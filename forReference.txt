@@ -1,0 +1,9 @@
+to do list
+1. vertically nested navbar in mobile. show nested things on hover in laptop like https://www.insightsonindia.com/
+2. toggle for dark mode.
+3. simple HTML editor adding p,br,ul,li tag.
+4. jsx to pdf convert dynamically, the pdf text should be selectable
+5. payments integration for pdf.
+6. automate sending pdf to gmail when payment received
+7. login functionality: self login, login with google, etc.
+8. 
