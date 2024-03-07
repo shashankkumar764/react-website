@@ -1,9 +1,10 @@
 to do list
 1. vertically nested navbar in mobile. close open list on clicking other. show nested things on hover in laptop like https://www.insightsonindia.com/
 2. toggle for dark mode.
-3. simple HTML editor adding p,br,ul,li tag.
+3. simple HTML editor adding p,br,ul,li tag. test whether react-quill fit our requirement
 4. jsx to pdf convert dynamically, the pdf text should be selectable
 5. payments integration for pdf.
-6. automate sending pdf to gmail when payment received
-7. login functionality: self login, login with google, etc.
-8. 
+6. automate sending pdf to gmail when payment received. think which pdf to send, automated generated pdf or pdf stored somewhere
+7. login functionality: self login, login with google, etc. how to reveal some rotes content access only to logged in user
+8. make subscription plan, that logged user can access some routes according to the validity of their subscription. could not bypassed by clearing cache or cookie
+9. 

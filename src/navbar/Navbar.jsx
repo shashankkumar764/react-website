@@ -1,11 +1,18 @@
-import React from 'react'
+import React from 'react';
+import './Navbar.css';
+import { navigationItems } from "../data";
 
 const Navbar = () => {
-    //take reference of navbar from this website https://cbphysiotherapy.in/
-
   return (
-    <div>From Navbar component. This will display nested navbar</div>
-  )
+    <div className="navbar">
+      <p>From Navbar component. This will display nested navbar</p>
+      <ul className="navbar_list">
+        {navigationItems.map((item, index) => (
+          <li key={index} className="navbar_item">{item.title}</li>
+        ))}
+      </ul>
+    </div>
+  );
 }
 
-export default Navbar
+export default Navbar;

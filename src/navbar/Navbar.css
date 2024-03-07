@@ -1,0 +1,33 @@
+/* Navbar.css */
+
+/* General styling */
+.navbar {
+    padding: 10px;
+  }
+  
+  .navbar_list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+    background-color: lightgray;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  .navbar_item {
+    margin-right: 15px;
+  }
+  
+  /* Responsive styling */
+  @media (max-width: 768px) {
+    .navbar_list {
+      flex-direction: column;
+    }
+  
+    .navbar_item {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  }
+  
